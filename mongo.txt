@@ -1,0 +1,7 @@
+indexing in mongo db
+
+
+db.system_data.createIndex({"user" : 1})
+
+
+this is just an eg
